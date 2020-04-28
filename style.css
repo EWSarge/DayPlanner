@@ -1,0 +1,15 @@
+#header{
+    font-family: Arial;
+    font-size: 70px;
+    border-bottom: solid 2px black;
+    padding-bottom: 10px;
+    width: 80%
+}
+
+
+#weekly-schedule{
+    background-color: lightgrey;
+    width: 900px;
+}
+
+    
